@@ -9,15 +9,15 @@ Sponsors: Memorial, History of Statistics Interest Group, Section on Statistics 
 
 Organizer and Chair: Allan Rossman, Cal Poly ([slides](https://github.com/Amherst-Statistics/Cobb-Memorial/blob/main/CobbMemorialSessionAllan.pdf))
 
-- 12:05 PM	George Cobb’s Contributions to Statistics Education for Introductory Students 
+- 12:05 PM	George Cobb’s Contributions to Statistics Education for Introductory Students:
 Nathan Tintle, Dordt University ([slides](https://github.com/Amherst-Statistics/Cobb-Memorial/blob/main/Tintle_Cobb.pdf))
-- 12:15 PM	George Cobb’s Contributions to Statistics Education as a Visiting Scholar 
+- 12:15 PM	George Cobb’s Contributions to Statistics Education as a Visiting Scholar:
 Lisa W. Kay, Eastern Kentucky University ([slides](https://github.com/Amherst-Statistics/Cobb-Memorial/blob/main/Lisa_Kay_George_Cobb_Memorial_JSM_2021.pdf))
-- 12:25 PM	George Cobb’s Contributions to Statistics Education at Liberal Arts Colleges 
+- 12:25 PM	George Cobb’s Contributions to Statistics Education at Liberal Arts Colleges:
 Jeff Witmer, Oberlin College and Conservatory
-- 12:35 PM	George Cobb’s Contributions to Statistics Education at Mount Holyoke College 
+- 12:35 PM	George Cobb’s Contributions to Statistics Education at Mount Holyoke College:
 Michael Lopez, National Football League/Skidmore College
-- 12:45 PM	George Cobb’s Contributions to Statistics Education for Undergraduates 
+- 12:45 PM	George Cobb’s Contributions to Statistics Education for Undergraduates:
 Nicholas Horton, Amherst College ([slides](https://github.com/Amherst-Statistics/Cobb-Memorial/blob/main/Horton_Cobb.pdf))
 - 12:55 PM	Floor Discussion
 
