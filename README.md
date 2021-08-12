@@ -7,18 +7,18 @@ Thu, 8/12/2021, 12:00 PM - 1:50 PM	Virtual
 
 Sponsors: Memorial, History of Statistics Interest Group, Section on Statistics and Data Science Education
 
-Organizer and Chair: Allan Rossman, Cal Poly [slides](https://github.com/Amherst-Statistics/Cobb-Memorial/blob/main/CobbMemorialSessionAllan.pdf)
+Organizer and Chair: Allan Rossman, Cal Poly ([slides](https://github.com/Amherst-Statistics/Cobb-Memorial/blob/main/CobbMemorialSessionAllan.pdf))
 
 - 12:05 PM	George Cobb’s Contributions to Statistics Education for Introductory Students 
-Nathan Tintle, Dordt University [slides](https://github.com/Amherst-Statistics/Cobb-Memorial/blob/main/Tintle_Cobb.pdf)
+Nathan Tintle, Dordt University ([slides](https://github.com/Amherst-Statistics/Cobb-Memorial/blob/main/Tintle_Cobb.pdf))
 - 12:15 PM	George Cobb’s Contributions to Statistics Education as a Visiting Scholar 
-Lisa W. Kay, Eastern Kentucky University [slides](https://github.com/Amherst-Statistics/Cobb-Memorial/blob/main/Lisa_Kay_George_Cobb_Memorial_JSM_2021.pdf)
+Lisa W. Kay, Eastern Kentucky University ([slides](https://github.com/Amherst-Statistics/Cobb-Memorial/blob/main/Lisa_Kay_George_Cobb_Memorial_JSM_2021.pdf))
 - 12:25 PM	George Cobb’s Contributions to Statistics Education at Liberal Arts Colleges 
 Jeff Witmer, Oberlin College and Conservatory
 - 12:35 PM	George Cobb’s Contributions to Statistics Education at Mount Holyoke College 
 Michael Lopez, National Football League/Skidmore College
 - 12:45 PM	George Cobb’s Contributions to Statistics Education for Undergraduates 
-Nicholas Horton, Amherst College [slides](Horton_Cobb.pdf)
+Nicholas Horton, Amherst College ([slides](https://github.com/Amherst-Statistics/Cobb-Memorial/blob/main/Horton_Cobb.pdf))
 - 12:55 PM	Floor Discussion
 
 
@@ -40,7 +40,7 @@ Nicholas Horton, Amherst College [slides](Horton_Cobb.pdf)
 - GW Cobb and DS Moore (1997). “Mathematics, Statistics, and Teaching,” The American Mathematical Monthly, 104, 801–823.
 - DS Moore, GW Cobb, J Garfield, and W Meeker (1993), “Statistics Education Fin de Sie`cle,” The American Statistician, 48, 250–260, https://www.tandfonline.com/doi/abs/10.1080/00031305.1995.10476159.
 - A Rossman and GW Cobb (2015), “Interview with George Cobb”, Journal of Statistics Education, 23:1, https://doi.org/10.1080/10691898.2015.11889729 
-- T Tarpey, C Acuna, GW Cobb, and R De Veaux (2002), “Curriculum Guidelines for Bachelor of Arts Degrees in Statistical Science”, Journal of Statistics Education, 10:2, DOI: 10.1080/10691898.2002.11910667
+- T Tarpey, C Acuna, GW Cobb, and R De Veaux (2002), “Curriculum Guidelines for Bachelor of Arts Degrees in Statistical Science”, Journal of Statistics Education, 10:2, https://www.tandfonline.com/doi/abs/10.1080/10691898.2002.11910667
 
 ## Obituary
 
