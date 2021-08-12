@@ -14,7 +14,7 @@ Nathan Tintle, Dordt University ([slides](https://github.com/Amherst-Statistics/
 - 12:15 PM	George Cobb’s Contributions to Statistics Education as a Visiting Scholar:
 Lisa W. Kay, Eastern Kentucky University ([slides](https://github.com/Amherst-Statistics/Cobb-Memorial/blob/main/Lisa_Kay_George_Cobb_Memorial_JSM_2021.pdf))
 - 12:25 PM	George Cobb’s Contributions to Statistics Education at Liberal Arts Colleges:
-Jeff Witmer, Oberlin College and Conservatory
+Jeff Witmer, Oberlin College and Conservatory ([notes](https://github.com/Amherst-Statistics/Cobb-Memorial/blob/main/Witmer_Cobb.pdf))
 - 12:35 PM	George Cobb’s Contributions to Statistics Education at Mount Holyoke College:
 Michael Lopez, National Football League/Skidmore College ([slides](https://github.com/Amherst-Statistics/Cobb-Memorial/blob/main/Lopez_Cobb.pdf))
 - 12:45 PM	George Cobb’s Contributions to Statistics Education for Undergraduates:
