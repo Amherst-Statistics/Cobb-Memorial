@@ -7,10 +7,10 @@ Thu, 8/12/2021, 12:00 PM - 1:50 PM	Virtual
 
 Sponsors: Memorial, History of Statistics Interest Group, Section on Statistics and Data Science Education
 
-Organizer and Chair: Allan Rossman, Cal Poly [slides](https://github.com/Amherst-Statistics/Cobb-Memorial/blob/main/https://github.com/Amherst-Statistics/Cobb-Memorial/blob/main)
+Organizer and Chair: Allan Rossman, Cal Poly [slides](https://github.com/Amherst-Statistics/Cobb-Memorial/blob/main/CobbMemorialSessionAllan.pdf)
 
 - 12:05 PM	George Cobb’s Contributions to Statistics Education for Introductory Students 
-Nathan Tintle, Dordt University [sides](https://github.com/Amherst-Statistics/Cobb-Memorial/blob/main/Tintle_Cobb.pdf)
+Nathan Tintle, Dordt University [slides](https://github.com/Amherst-Statistics/Cobb-Memorial/blob/main/Tintle_Cobb.pdf)
 - 12:15 PM	George Cobb’s Contributions to Statistics Education as a Visiting Scholar 
 Lisa W. Kay, Eastern Kentucky University [slides](https://github.com/Amherst-Statistics/Cobb-Memorial/blob/main/Lisa_Kay_George_Cobb_Memorial_JSM_2021.pdf)
 - 12:25 PM	George Cobb’s Contributions to Statistics Education at Liberal Arts Colleges 
