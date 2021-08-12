@@ -33,6 +33,7 @@ Nicholas Horton, Amherst College ([slides](https://github.com/Amherst-Statistics
 - GW Cobb (1992), “Teaching Statistics”, in “Heeding the Call for Change: Call for Curricular Action”, Steen (Editor), Mathematical Association of America, http://www.statlit.org/pdf/1992-Steen-MAA-Heeding-Call-For-Change.pdf 
 - GW Cobb (1993), “Reconsidering Statistics Education: A National Science Foundation Conference,” Journal of Statistics Education, 1, https://doi.org/10.1080/10691898.1993.11910454 
 - GW Cobb (1999), “Discussion of ‘Let’s Use CQI’”, The American Statistician, 53:1, 16-21, https://doi.org/10.1080/00031305.1999.10474421 
+- GW Cobb (2004) "Against Fairness": ARTIST conference, http://www.rossmanchance.com/artist/proceedings/cobb.pdf
 - GW Cobb (2011), “Teaching Statistics: Some Important Tensions,” Chilean Journal of Statistics, 2, 31–62, http://soche.cl/chjs/volumes/02/01/Cobb(2011).pdf 
 - GW Cobb (2013), “What might a twenty-year old conference tell us about the future of our profession?”, Journal of Statistics Education, 21(2), https://doi.org/10.1080/10691898.2013.11889672 
 - GW Cobb (2015). “Mere Renovation is Too Little Too Late: We Need to Rethink our Undergraduate Curriculum from the Ground Up”, The American Statistician, 69:4, 266-282, https://doi.org/10.1080/00031305.2015.1093029 
