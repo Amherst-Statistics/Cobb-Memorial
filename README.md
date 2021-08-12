@@ -26,6 +26,7 @@ Nicholas Horton, Amherst College ([slides](https://github.com/Amherst-Statistics
 
 - USCOTS lifetime achievement award (2005): https://www.causeweb.org/cause/lifetime/2005
 - eCOTS memorial session (May 18, 2020): https://www.causeweb.org/cause/ecots/ecots20/program/memorial
+- https://georgewcobb.com
 
 ## Incomplete bibliography
 
