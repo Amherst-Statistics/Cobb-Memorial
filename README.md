@@ -16,7 +16,7 @@ Lisa W. Kay, Eastern Kentucky University ([slides](https://github.com/Amherst-St
 - 12:25 PM	George Cobb’s Contributions to Statistics Education at Liberal Arts Colleges:
 Jeff Witmer, Oberlin College and Conservatory
 - 12:35 PM	George Cobb’s Contributions to Statistics Education at Mount Holyoke College:
-Michael Lopez, National Football League/Skidmore College
+Michael Lopez, National Football League/Skidmore College ([slides](https://github.com/Amherst-Statistics/Cobb-Memorial/blob/main/Lopez_Cobb.pdf))
 - 12:45 PM	George Cobb’s Contributions to Statistics Education for Undergraduates:
 Nicholas Horton, Amherst College ([slides](https://github.com/Amherst-Statistics/Cobb-Memorial/blob/main/Horton_Cobb.pdf))
 - 12:55 PM	Floor Discussion
