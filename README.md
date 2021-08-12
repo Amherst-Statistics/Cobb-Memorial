@@ -56,3 +56,8 @@ Beyond statistics, George loved spending time with family and friends.  He loved
 
 After Georges' passing, a common phrase  was :  "Today I lost my best friend."  This statement sings to his most authentic form.  George contributed significantly to statistics and statistics education, but far more importantly, he was genuinely compassionate and cared for his family, friends, colleagues and students.
 The family plans to hold a celebration of Georges' life (with Bluegrass): perhaps in the spring or summer of 2021.  Contributions in his memory can be made to:  The American Friends Service Committee.
+
+
+## Notes
+
+This page was last updated on August 12, 2021 by Nicholas Horton
